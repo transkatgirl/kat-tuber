@@ -12,9 +12,13 @@ for outfit in generated/*; do
 
 				output="generated/${outfit_name}/${body_name}/${eyes_name}/${faces_name}.png"
 
-				svgexport $faces $output 8x
+				if [ -f $faces ]; then
+					svgexport $faces $output 8x
 
-				rm $faces
+					if [ -f $output ]; then
+						rm $faces
+					fi
+				fi
 			done
 		done
 	done
