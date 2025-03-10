@@ -1,0 +1,78 @@
+--- templates/faces/base.svg	2025-03-10 12:59:27
++++ templates/faces/teeth-hint.svg	2025-03-10 12:59:29
+@@ -1586,7 +1586,7 @@
+           />
+           <g
+             id="lcart_mouth"
+-            paramParts="43"
++            paramParts="28"
+             paramTx="0"
+             paramTy="0"
+             paramScx="1.4"
+@@ -1607,26 +1607,53 @@
+             paramOpacity="1"
+             transform="scale(1.399999976158142,1.399999976158142)"
+           >
+-            <g id="x043" transform="translate(0, 0) scale(1,1)">
++            <g id="x028" transform="translate(0, 0) scale(1,1)">
+               <g>
+                 <g>
++                  <g>
++                    <path
++                      style="fill:#FFDEDE;"
++                      d="M253.844,132.678c0,0.474-1.72,1.319-3.844,1.319c-2.122,0-3.844-0.845-3.844-1.319c0-0.473,1.721,0.345,3.844,0.345C252.124,133.024,253.844,132.205,253.844,132.678z"
++                      orgb="rgb(255, 222, 222)"
++                    />
++                    <path
++                      style="fill:#FFFFFF;"
++                      d="M251.051,133.287c0,0.112-0.12,0.203-0.267,0.203c-0.148,0-0.269-0.091-0.269-0.203s0.12-0.203,0.269-0.203C250.931,133.084,251.051,133.175,251.051,133.287z"
++                    />
++                  </g>
++                  <g>
++                    <g>
++                      <g>
++                        <g>
++                          <path
++                            style="fill:none;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
++                            d="M250.028,132.916c2.398,0,3.629-0.404,3.629-0.404"
++                          />
++                        </g>
++                      </g>
++                    </g>
++                    <g>
++                      <g>
++                        <g>
++                          <path
++                            style="fill:none;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
++                            d="M249.972,132.916c-2.399,0-3.628-0.404-3.628-0.404"
++                          />
++                        </g>
++                      </g>
++                    </g>
++                  </g>
++                </g>
++                <g>
+                   <path
+-                    style="fill:#FFDEDE;"
+-                    d="M251.965,133.382c0,0.473-0.879,0.626-1.965,0.626c-1.085,0-1.965-0.152-1.965-0.626c0-0.473,0.88-0.349,1.965-0.349C251.086,133.033,251.965,132.909,251.965,133.382z"
+-                    orgb="rgb(255, 222, 222)"
++                    style="fill:#FDFFFC;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
++                    d="M252.404,132.872c-0.117,0,0.559,1.214,0.828,1.098c0.271-0.115,0.617-1.541,0.617-1.541S253.002,132.872,252.404,132.872z"
+                   />
+                   <path
+-                    style="fill:#FFFFFF;"
+-                    d="M251.41,133.629c0,0.112-0.121,0.202-0.268,0.202c-0.148,0-0.268-0.09-0.268-0.202s0.12-0.203,0.268-0.203C251.289,133.426,251.41,133.517,251.41,133.629z"
++                    style="fill:#FDFFFC;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
++                    d="M247.595,132.872c0.117,0-0.559,1.214-0.828,1.098c-0.269-0.115-0.616-1.541-0.616-1.541S246.998,132.872,247.595,132.872z"
+                   />
+                 </g>
+-                <line
+-                  style="fill:#FFA1A6;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
+-                  x1="248.464"
+-                  y1="133.298"
+-                  x2="251.496"
+-                  y2="133.298"
+-                />
+               </g>
+             </g>
+           </g>

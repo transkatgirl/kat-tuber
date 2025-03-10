@@ -1,0 +1,78 @@
+--- templates/body/base.svg	2025-03-10 08:29:05
++++ templates/body/red-cheeks.svg	2025-03-10 08:29:05
+@@ -2522,7 +2522,7 @@
+           </g>
+           <g
+             id="lcart_make"
+-            paramParts="3"
++            paramParts="8"
+             paramTx="0"
+             paramTy="0"
+             paramScx="1.4"
+@@ -2541,55 +2541,19 @@
+             paramPtnMode="0"
+             paramRotate="0"
+             paramOpacity="1"
+-            transform="translate(0, 0),scale(1.4,1.4),rotate(0,249.99998474121094,123.15700149536133)"
++            transform="scale(1.399999976158142,1.399999976158142)"
+             opacity="1"
+           >
+-            <g id="x003" transform="translate(0, 0), scale(1, 1) , rotate(0)">
+-              <g id="skin_x5F_multiply_00000103246946882170694120000002403425251377985468_">
+-                <g>
+-                  <g>
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M232.802,126.374c0,0,0.574-0.82,0.847-1.039"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M234.114,126.593c0,0,0.301-0.711,0.875-1.093c0.027,0.191,0.191,0.984,0.191,0.984"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M236.082,126.402c0,0,0.383-0.656,0.629-0.929"
+-                    />
+-                  </g>
+-                </g>
+-                <g>
+-                  <g>
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M263.289,126.374c0,0,0.574-0.82,0.847-1.039"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M264.601,126.593c0,0,0.301-0.711,0.875-1.093c0.027,0.191,0.191,0.984,0.191,0.984"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M266.569,126.401c0,0,0.383-0.656,0.629-0.929"
+-                    />
+-                  </g>
+-                </g>
+-              </g>
+-              <g style="filter:url(#filblur3);">
+-                <g>
+-                  <g>
+-                    <ellipse style="fill:#FFC7C7;" cx="234.686" cy="126.541" rx="3.6" ry="2.584" />
+-                    <ellipse style="fill:#FFC7C7;" cx="265.314" cy="126.541" rx="3.6" ry="2.584" />
+-                  </g>
+-                </g>
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="288.636" cy="125.771" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="211.364" cy="125.771" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="250" cy="98.257" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="250" cy="148.057" rx="0.471" ry="0.514" />
++            <g id="x008" transform="translate(0, 0) scale(1,1)">
++              <g>
++                <path
++                  style="fill:#FFC7C7;"
++                  d="M269.864,126.469c0,0.788-1.386,1.427-3.095,1.427s-3.095-0.639-3.095-1.427c0-0.788,1.386-1.427,3.095-1.427S269.864,125.681,269.864,126.469z"
++                />
++                <path
++                  style="fill:#FFC7C7;"
++                  d="M230.136,126.469c0,0.788,1.386,1.427,3.095,1.427c1.709,0,3.095-0.639,3.095-1.427c0-0.788-1.386-1.427-3.095-1.427C231.522,125.042,230.136,125.681,230.136,126.469z"
++                />
+               </g>
+             </g>
+           </g>

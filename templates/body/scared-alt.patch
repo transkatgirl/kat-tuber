@@ -1,0 +1,85 @@
+--- templates/body/base.svg	2025-03-10 08:29:05
++++ templates/body/scared-alt.svg	2025-03-10 08:29:05
+@@ -2522,7 +2522,7 @@
+           </g>
+           <g
+             id="lcart_make"
+-            paramParts="3"
++            paramParts="11"
+             paramTx="0"
+             paramTy="0"
+             paramScx="1.4"
+@@ -2541,55 +2541,26 @@
+             paramPtnMode="0"
+             paramRotate="0"
+             paramOpacity="1"
+-            transform="translate(0, 0),scale(1.4,1.4),rotate(0,249.99998474121094,123.15700149536133)"
++            transform="scale(1.399999976158142,1.399999976158142)"
+             opacity="1"
+           >
+-            <g id="x003" transform="translate(0, 0), scale(1, 1) , rotate(0)">
+-              <g id="skin_x5F_multiply_00000103246946882170694120000002403425251377985468_">
+-                <g>
+-                  <g>
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M232.802,126.374c0,0,0.574-0.82,0.847-1.039"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M234.114,126.593c0,0,0.301-0.711,0.875-1.093c0.027,0.191,0.191,0.984,0.191,0.984"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M236.082,126.402c0,0,0.383-0.656,0.629-0.929"
+-                    />
+-                  </g>
+-                </g>
+-                <g>
+-                  <g>
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M263.289,126.374c0,0,0.574-0.82,0.847-1.039"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M264.601,126.593c0,0,0.301-0.711,0.875-1.093c0.027,0.191,0.191,0.984,0.191,0.984"
+-                    />
+-                    <path
+-                      style="fill:none;stroke:#FFC7C7;stroke-width:0.3189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
+-                      d="M266.569,126.401c0,0,0.383-0.656,0.629-0.929"
+-                    />
+-                  </g>
+-                </g>
+-              </g>
+-              <g style="filter:url(#filblur3);">
+-                <g>
+-                  <g>
+-                    <ellipse style="fill:#FFC7C7;" cx="234.686" cy="126.541" rx="3.6" ry="2.584" />
+-                    <ellipse style="fill:#FFC7C7;" cx="265.314" cy="126.541" rx="3.6" ry="2.584" />
+-                  </g>
+-                </g>
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="288.636" cy="125.771" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="211.364" cy="125.771" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="250" cy="98.257" rx="0.471" ry="0.514" />
+-                <ellipse style="opacity:0;fill:#FFC7C7;" cx="250" cy="148.057" rx="0.471" ry="0.514" />
++            <g id="x011" transform="translate(0, 0) scale(1,1)">
++              <g id="skin">
++                <linearGradient
++                  id="makeSVGCID_00000084505979992675846710000016456716643199708564_"
++                  gradientUnits="userSpaceOnUse"
++                  x1="250.0509"
++                  y1="85.4857"
++                  x2="250.0509"
++                  y2="134.0807"
++                >
++                  <stop offset="0" style="stop-color:#55B1F4" />
++                  <stop offset="1" style="stop-color:#55B1F4;stop-opacity:0" />
++                </linearGradient>
++                <path
++                  style="opacity:0.3;fill:url(#makeSVGCID_00000084505979992675846710000016456716643199708564_);"
++                  d="M277.399,88.06c-6.391-13.305-17.251-14.51-27.348-14.62c-10.097,0.109-20.957,1.315-27.348,14.62c-2.193,4.565-2.877,16.742-0.847,25.171c0.851,5.978,4.592,11.274,6.409,15.505c1.478,3.901,2.083,7.516,10.28,10.883c2.955,1.234,8.114,2.819,11.507,3.15c3.393-0.331,8.553-1.916,11.507-3.15c8.197-3.367,8.802-6.982,10.28-10.883c1.816-4.231,5.558-9.527,6.409-15.505C280.277,104.802,279.592,92.625,277.399,88.06z"
++                />
+               </g>
+             </g>
+           </g>

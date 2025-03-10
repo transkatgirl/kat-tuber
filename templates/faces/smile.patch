@@ -1,0 +1,59 @@
+--- templates/faces/base.svg	2025-03-10 12:59:27
++++ templates/faces/smile.svg	2025-03-10 12:59:29
+@@ -1586,7 +1586,7 @@
+           />
+           <g
+             id="lcart_mouth"
+-            paramParts="43"
++            paramParts="1"
+             paramTx="0"
+             paramTy="0"
+             paramScx="1.4"
+@@ -1607,26 +1607,30 @@
+             paramOpacity="1"
+             transform="scale(1.399999976158142,1.399999976158142)"
+           >
+-            <g id="x043" transform="translate(0, 0) scale(1,1)">
++            <g id="x001" transform="translate(0, 0) scale(1,1)">
+               <g>
++                <path
++                  style="fill:#FFDEDE;"
++                  d="M253.63,133.019c0,0.518-1.599,1.443-3.57,1.443c-1.972,0-3.569-0.926-3.569-1.443c0-0.518,1.598,0.378,3.569,0.378C252.031,133.396,253.63,132.501,253.63,133.019z"
++                  orgb="rgb(255, 222, 222)"
++                />
++                <ellipse style="fill:#FFFFFF;" cx="251.479" cy="133.858" rx="0.293" ry="0.222" />
+                 <g>
+-                  <path
+-                    style="fill:#FFDEDE;"
+-                    d="M251.965,133.382c0,0.473-0.879,0.626-1.965,0.626c-1.085,0-1.965-0.152-1.965-0.626c0-0.473,0.88-0.349,1.965-0.349C251.086,133.033,251.965,132.909,251.965,133.382z"
+-                    orgb="rgb(255, 222, 222)"
+-                  />
+-                  <path
+-                    style="fill:#FFFFFF;"
+-                    d="M251.41,133.629c0,0.112-0.121,0.202-0.268,0.202c-0.148,0-0.268-0.09-0.268-0.202s0.12-0.203,0.268-0.203C251.289,133.426,251.41,133.517,251.41,133.629z"
+-                  />
++                  <g>
++                    <g>
++                      <path
++                        style="fill:#FFF5EB;stroke:#4D3C60;stroke-width:0.2971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
++                        d="M245.262,132.151c0,0,0.826,1.109,3.8,1.239"
++                      />
++                    </g>
++                    <g>
++                      <path
++                        style="fill:#FFF5EB;stroke:#4D3C60;stroke-width:0.2971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.2574;"
++                        d="M254.738,132.151c0,0-0.826,1.109-3.8,1.239"
++                      />
++                    </g>
++                  </g>
+                 </g>
+-                <line
+-                  style="fill:#FFA1A6;stroke:#4D3C60;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;"
+-                  x1="248.464"
+-                  y1="133.298"
+-                  x2="251.496"
+-                  y2="133.298"
+-                />
+               </g>
+             </g>
+           </g>

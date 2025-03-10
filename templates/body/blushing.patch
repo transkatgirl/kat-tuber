@@ -1,0 +1,34 @@
+--- templates/body/base.svg	2025-03-10 08:29:05
++++ templates/body/blushing.svg	2025-03-10 08:29:05
+@@ -2522,7 +2522,7 @@
+           </g>
+           <g
+             id="lcart_make"
+-            paramParts="3"
++            paramParts="4"
+             paramTx="0"
+             paramTy="0"
+             paramScx="1.4"
+@@ -2541,11 +2541,11 @@
+             paramPtnMode="0"
+             paramRotate="0"
+             paramOpacity="1"
+-            transform="translate(0, 0),scale(1.4,1.4),rotate(0,249.99998474121094,123.15700149536133)"
++            transform="scale(1.399999976158142,1.399999976158142)"
+             opacity="1"
+           >
+-            <g id="x003" transform="translate(0, 0), scale(1, 1) , rotate(0)">
+-              <g id="skin_x5F_multiply_00000103246946882170694120000002403425251377985468_">
++            <g id="x004" transform="translate(0, 0) scale(1,1)">
++              <g id="skin_x5F_multiply_00000092416697040909137140000009186981554819660719_">
+                 <g>
+                   <g>
+                     <path
+@@ -2583,6 +2583,7 @@
+                 <g>
+                   <g>
+                     <ellipse style="fill:#FFC7C7;" cx="234.686" cy="126.541" rx="3.6" ry="2.584" />
++                    <ellipse style="fill:#FFC7C7;" cx="250" cy="124.37" rx="3.6" ry="2.584" />
+                     <ellipse style="fill:#FFC7C7;" cx="265.314" cy="126.541" rx="3.6" ry="2.584" />
+                   </g>
+                 </g>
