@@ -1,4 +1,4 @@
-rm -r generated
+rm -rf generated
 
 mkdir generated
 

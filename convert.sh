@@ -1,3 +1,5 @@
+set -eu
+
 for outfit in generated/*; do
 	outfit_name=$(basename ${outfit})
 
@@ -7,17 +9,15 @@ for outfit in generated/*; do
 		for eyes in generated/${outfit_name}/${body_name}/*; do
 			eyes_name=$(basename ${eyes})
 
+			mkdir -p "converted-png/${outfit_name}/${body_name}/${eyes_name}"
+
 			for faces in generated/${outfit_name}/${body_name}/${eyes_name}/*; do
 				faces_name=$(basename -s .svg ${faces})
 
-				output="generated/${outfit_name}/${body_name}/${eyes_name}/${faces_name}.png"
+				output="converted-png/${outfit_name}/${body_name}/${eyes_name}/${faces_name}.png"
 
-				if [ -f $faces ]; then
-					svgexport $faces $output 8x
-
-					if [ -f $output ]; then
-						rm $faces
-					fi
+				if [ -f $faces ] && [ ! -f $output ]; then
+					svgexport $faces $output 9x
 				fi
 			done
 		done
