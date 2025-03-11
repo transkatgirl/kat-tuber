@@ -1,4 +1,4 @@
-set -eu
+#set -eu
 
 for outfit in generated/*; do
 	outfit_name=$(basename ${outfit})
